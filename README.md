@@ -1,5 +1,3 @@
-# virustotalx for endpoints 
-
 # Installation 
 
 ```sh
